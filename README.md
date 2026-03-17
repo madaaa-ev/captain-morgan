@@ -1,2 +1,2 @@
 # captain-morgan
-media storage bot 
+media storage lucia bot 
